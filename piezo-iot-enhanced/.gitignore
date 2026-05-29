@@ -1,0 +1,35 @@
+# Arduino IDE build artifacts
+build/
+*.hex
+*.elf
+*.map
+*.d
+
+# Arduino IDE 2.x cache
+.arduino15/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor configs
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python analysis artefacts (if you run data analysis locally)
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.env
+
+# Windows OneDrive / temp
+~$*
+*.tmp
+
+# Serial log dumps (keep sample only)
+data/live_*.csv
+data/session_*.csv
+!data/sample_session_log.csv
