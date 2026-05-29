@@ -2,11 +2,10 @@
 
 > Converting human footsteps into measurable electrical energy using piezoelectric transducers, analog power conditioning, and real-time IoT monitoring.
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=flat&logo=arduino&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Embedded%20Systems-blue?style=flat)
-![Sensors](https://img.shields.io/badge/Sensors-Piezoelectric-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Working%20Build-brightgreen?style=flat)
-![Course](https://img.shields.io/badge/Course-21EIC101J-purple?style=flat)
+![Code]([text](piezo_final.ino.ino))
+![Block Diagram](c:\Users\Hacke\Downloads\WhatsApp Unknown 2026-05-29 at 13.05.38\Block diagram.jpeg)
+![Project image](c:\Users\Hacke\Downloads\WhatsApp Unknown 2026-05-29 at 13.05.38\Project Image.jpeg)
+![Certficate](c:\Users\Hacke\Downloads\Certfiacation.jpeg)
 
 ---
 
@@ -200,7 +199,7 @@ Each footstep generates approximately **0.3 mJ** of electrical energy across 6 p
 **Selverishanth**
 Department of Electronics and Instrumentation Engineering
 SRM Institute of Science and Technology (College of Engineering and Technology)
-Course: **21EIC101J — Sensors and Actuators**
+Course: **21EIC101J — Physics**
 
 ---
 
